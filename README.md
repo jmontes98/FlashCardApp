@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-<img src="https://imgur.com/17p2cWF" width=200><br>
+<img src="https://i.imgur.com/RIWe50s.mp4" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
